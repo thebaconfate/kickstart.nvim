@@ -1,5 +1,9 @@
 # kickstart.nvim
 
+## Archived
+
+Archived because I created my own config called odin
+
 ## Introduction
 
 A starting point for Neovim that is:
